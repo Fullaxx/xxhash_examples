@@ -1,2 +1,2 @@
 # xxhash_examples
-Example code to show off xxhash
+Example code to show xxhash usage
